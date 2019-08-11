@@ -5,6 +5,7 @@ What Vanilla Should Be Modpack for Fabric 1.14.4.
 A modpack based on my opinion of what vanilla minecraft should be. It includes many vanilla-like mods and datapacks to enhance the gameplay experience.
 
 ## Installation
+Please see the Releases list.
 Currently, there is only a MultiMC instance import zip. Future versions will contain just a mod, config, datapack and resource pack folder to install for the vanilla launcher.
 
 ## Credits and Acknowledgements
